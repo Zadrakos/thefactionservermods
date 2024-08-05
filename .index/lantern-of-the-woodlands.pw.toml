@@ -1,0 +1,13 @@
+filename = 'LOTW-Forge-1.20.1-4.0.2.jar'
+name = 'Lantern of The Woodlands'
+side = 'both'
+
+[download]
+hash = '487171221de9c59ef2b8f7fb091504e51527521b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5404493
+project-id = 541253

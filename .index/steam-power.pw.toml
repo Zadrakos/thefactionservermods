@@ -1,0 +1,13 @@
+filename = 'steam_powered-1.0.7-forge-1.20.1.jar'
+name = 'Steam Powered'
+side = 'both'
+
+[download]
+hash = 'ef0825bd181ab80f16c709efcb68e19b6bf28477'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5411779
+project-id = 1028041

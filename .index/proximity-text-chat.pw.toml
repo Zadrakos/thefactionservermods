@@ -1,0 +1,13 @@
+filename = 'ProximityTextChat-1.20.1-1.3FE.jar'
+name = 'Proximity Text Chat'
+side = 'both'
+
+[download]
+hash = 'f2a02a0ffe770b58e737869f439acacdf47de676'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4584015
+project-id = 716287

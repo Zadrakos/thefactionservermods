@@ -1,0 +1,13 @@
+filename = 'psychedelicraft-1.7.5+1.20.1.jar'
+name = 'Psychedelicraft'
+side = 'both'
+
+[download]
+hash = '8eca4cd7c171d9e8a59bf10b34e0ebb2ae1e2285'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5026772
+project-id = 224601

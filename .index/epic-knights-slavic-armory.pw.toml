@@ -1,0 +1,13 @@
+filename = '[1.20.x-forge]-Epic-Knights-Slavic-Armory-1.5.jar'
+name = 'Epic Knights: Slavic Armory'
+side = 'both'
+
+[download]
+hash = '4c80e2058dcdfa4aa1aab52add7a3a7026dfe3db'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5458480
+project-id = 942000
